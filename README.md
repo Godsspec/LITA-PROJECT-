@@ -17,10 +17,23 @@ Data was provided by the instructor in order to aid learnings, but it is a known
 
 ## Data Cleaning and Preparation
 ---------------------
-- i) Data was uploaded from the Learning Management System (LMS)
-- ii) It was cleaned and validated, thereby ready for exploration and visualization
+In the initial Phase of the Data Cleaning and preparations, we perform the following action after uploading the file from the Learning Management System (LMS);
+- Data loading and inspection
+- Handling missing variables
+- Data Cleaning and inspectioni) Data was uploaded from the Learning Management System (LMS)
+ 
 
 ## Exploratory Data Analysis
 -----------------------
-- 
+EDA was implored to extract insights from the data through insightful questions such as;
+i) What is the Total Number of Attrition Count?
+ii) What is the Total Number of Current Employee?
+iii) Average age of Employee?
+iv) Attrition Rate
+v) Job role Satisfaction
+vi) Marital Status of Employee
+
+## Data Visualization
+--------------------
+Power BI was used to visualize the explored data after transforming the data from Ms Excel
 
