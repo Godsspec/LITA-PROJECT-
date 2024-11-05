@@ -35,5 +35,6 @@ vi) Marital Status of Employee
 
 ## Data Visualization
 --------------------
-Power BI was used to visualize the explored data after transforming the data from Ms Excel
+Power BI was used to visualize the explored data after transforming the data from Ms Excel through different visualization models
+
 
