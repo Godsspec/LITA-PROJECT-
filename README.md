@@ -1,6 +1,6 @@
 # LITA-PROJECT-
 This displays the application of knowledge received during Data analysis classes at Incubator hub
-## Project Title: HR Data Analysis
+## Project Title 1: HR Data Analysis
 
 ## Project Overview
 ------------------
@@ -12,7 +12,6 @@ Data was provided by the instructor in order to aid learnings, but it is a known
 ## Data Analysis Tools Used
 ----------------------
 - Microsoft Excel: Ms Excel 2010 was used to clean, explore and create pivot tables from the data
-- Structured Query Language: SQL SSMS was used to write queries in order to draw insights from the data
 - Power BI: This was used to visualize the data for better understanding of patterns, trends and deduction of occurences observed in the data.
 - Github; for portfolio building
 
@@ -57,10 +56,10 @@ Analysis tools used were;
 ------------
 Pivot tables created from the exploration of the data are seen below
 ![image](https://github.com/user-attachments/assets/cf914dff-37c6-404c-be54-8338ffa5ca29)
-"This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
+> This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
 
 ![image](https://github.com/user-attachments/assets/2200a507-e938-491c-86a8-1e5f9286db88)
-"Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024."
+> Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024.
 
 
 
