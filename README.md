@@ -57,10 +57,10 @@ Analysis tools used were;
 ------------
 Pivot tables created from the exploration of the data are seen below
 ![image](https://github.com/user-attachments/assets/cf914dff-37c6-404c-be54-8338ffa5ca29)
-This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart.
+"This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
 
 ![image](https://github.com/user-attachments/assets/2200a507-e938-491c-86a8-1e5f9286db88)
-Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024.
+"Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024."
 
 
 
