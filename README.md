@@ -14,6 +14,7 @@ Data was provided by the instructor in order to aid learnings, but it is a known
 - Microsoft Excel: Ms Excel 2010 was used to clean, explore and create pivot tables from the data
 - Structured Query Language: SQL SSMS was used to write queries in order to draw insights from the data
 - Power BI: This was used to visualize the data for better understanding of patterns, trends and deduction of occurences observed in the data.
+- Github; for portfolio building
 
 ## Data Cleaning and Preparation
 ---------------------
@@ -38,3 +39,20 @@ vi) Marital Status of Employee
 Power BI was used to visualize the explored data after transforming the data from Ms Excel through different visualization models
 
 
+
+# Project Title : Sales Data Analysis
+
+## Overview
+-----------
+Sales made by a wholesale/retail store selling clothings across the regions of Nigeria ( North, South, East and West) over a few years of sales was analysed to know if the choice of business was a good or bad choice, if it is a profitable business via the revenues incurred.
+
+## Data Analysis Tools
+--------------
+Analysis tools used were; 
+1. MS Excel 2010; to clean and explore data using excel fuctions to answer probing questions, creating pivot tables to summarize the entire data
+2. Structured Query Language; SSMS was used to write queries allowing for insights to be drawn from the data
+3. Power BI; to summarize and visualize the data using different visual models
+
+### MS Excel
+------------
+Pivot tables created from the exploration of the data are seen below
