@@ -56,3 +56,5 @@ Analysis tools used were;
 ### MS Excel
 ------------
 Pivot tables created from the exploration of the data are seen below
+![image](https://github.com/user-attachments/assets/19c9be47-fc3a-4624-9514-600f8787b433)
+
