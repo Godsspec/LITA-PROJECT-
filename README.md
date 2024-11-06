@@ -40,11 +40,11 @@ Power BI was used to visualize the explored data after transforming the data fro
 
 
 
-# Project Title : Sales Data Analysis
+# Project Title 2: Sales Data Analysis
 
 ## Overview
 -----------
-Sales made by a wholesale/retail store selling clothings across the regions of Nigeria ( North, South, East and West) over a few years of sales was analysed to know if the choice of business was a good or bad choice, if it is a profitable business via the revenues incurred.
+Sales made by a wholesale/retail store selling clothings (such as-Gloves, Hat, Jacket, Shirt, Shoes and Socks) across the regions of Nigeria ( North, South, East and West) between 2023/2024 was analysed to know if the choice of business was a good or bad choice, if it is a profitable business via the revenues incurred and also the product yielding the largest sales.
 
 ## Data Analysis Tools
 --------------
@@ -56,5 +56,12 @@ Analysis tools used were;
 ### MS Excel
 ------------
 Pivot tables created from the exploration of the data are seen below
-![image](https://github.com/user-attachments/assets/19c9be47-fc3a-4624-9514-600f8787b433)
+![image](https://github.com/user-attachments/assets/cf914dff-37c6-404c-be54-8338ffa5ca29)
+This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart.
+
+![image](https://github.com/user-attachments/assets/2200a507-e938-491c-86a8-1e5f9286db88)
+Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024.
+
+
+
 
