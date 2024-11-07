@@ -65,10 +65,10 @@ Analysis tools used were;
 >Top selling products in descending order: Shoes (29%),  Shirt (23%), Gloves(16%), Hat(15%), Jackets (10%) and Socks (8%). The highest selling product is Shoes while the lowest selling product is socks.
 
 2. Excel Functions were used to make some findings from the data, such as:
-- The Averages Sales by Product
+> The Averages Sales by Product
  ![image](https://github.com/user-attachments/assets/fcbcc33d-6e00-47d3-ae6b-fd30c209fe67)
 
-- The Total Revenue by Region
+> The Total Revenue by Region
 ![image](https://github.com/user-attachments/assets/30145af1-bab3-4a8d-994c-81cc943a9f74)
 
 
