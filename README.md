@@ -56,7 +56,7 @@ Analysis tools used were;
 ------------
 1. Pivot tables created from the exploration of the data are seen below
 ![image](https://github.com/user-attachments/assets/cf914dff-37c6-404c-be54-8338ffa5ca29)
-> This shows the regional performance of the business. It is seen that the South has the highest sum of sales revenue (927,820), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
+> This shows the regional performance of the business. With a Grand Total of 2,150,390, it is seen that the South has the highest sum of sales revenue (927,820), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
 
 ![image](https://github.com/user-attachments/assets/2200a507-e938-491c-86a8-1e5f9286db88)
 > Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024.
@@ -64,8 +64,13 @@ Analysis tools used were;
 ![image](https://github.com/user-attachments/assets/23284b8f-f8cd-4fac-bbb1-f32904dfffc5)
 >Top selling products in descending order: Shoes (29%),  Shirt (23%), Gloves(16%), Hat(15%), Jackets (10%) and Socks (8%). The highest selling product is Shoes while the lowest selling product is socks.
 
-2. Excel Functions was used to make some findings from the data, such as:
-i. 
+2. Excel Functions were used to make some findings from the data, such as:
+- The Averages Sales by Product
+ ![image](https://github.com/user-attachments/assets/fcbcc33d-6e00-47d3-ae6b-fd30c209fe67)
+
+- The Total Revenue by Region
+![image](https://github.com/user-attachments/assets/30145af1-bab3-4a8d-994c-81cc943a9f74)
+
 
 ### Structured Query Language (SQL)
 -------------------------------
