@@ -69,7 +69,8 @@ Analysis tools used were;
  ![image](https://github.com/user-attachments/assets/fcbcc33d-6e00-47d3-ae6b-fd30c209fe67)
 
 > The Total Revenue by Region
-![image](https://github.com/user-attachments/assets/30145af1-bab3-4a8d-994c-81cc943a9f74)
+![image](https://github.com/user-attachments/assets/40fc5a67-d789-44d8-8854-418bfb432f9f)
+
 
 
 ### Structured Query Language (SQL)
