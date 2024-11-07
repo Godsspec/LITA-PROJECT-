@@ -35,11 +35,11 @@ vi) Marital Status of Employee
 
 ## Data Visualization
 --------------------
-Power BI was used to visualize the explored data after transforming the data from Ms Excel through different visualization models
+Power BI was used to visualize the explored data after transforming the data from Ms Excel through different visualization models which has been uploaded as files.
 
 
 
-# Project Title 2: Sales Data Analysis
+## Project Title 2: Sales Data Analysis
 
 ## Overview
 -----------
@@ -54,12 +54,22 @@ Analysis tools used were;
 
 ### MS Excel
 ------------
-Pivot tables created from the exploration of the data are seen below
+1. Pivot tables created from the exploration of the data are seen below
 ![image](https://github.com/user-attachments/assets/cf914dff-37c6-404c-be54-8338ffa5ca29)
-> This shows the regional performance of the business and it is seen that the South has the highest sum of sales revenue (927,000), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
+> This shows the regional performance of the business. It is seen that the South has the highest sum of sales revenue (927,820), and it is involved only in the selling of Gloves, Shoes and Socks with sales of shoes topping the chart."
 
 ![image](https://github.com/user-attachments/assets/2200a507-e938-491c-86a8-1e5f9286db88)
 > Here is a display of the monthly sales trend, it reveals that February has the peak of revenue in 2023 & 2024.
+
+![image](https://github.com/user-attachments/assets/23284b8f-f8cd-4fac-bbb1-f32904dfffc5)
+>Top selling products in descending order: Shoes (29%),  Shirt (23%), Gloves(16%), Hat(15%), Jackets (10%) and Socks (8%). The highest selling product is Shoes while the lowest selling product is socks.
+
+2. Excel Functions was used to make some findings from the data, such as:
+i. 
+
+### Structured Query Language (SQL)
+-------------------------------
+
 
 
 
